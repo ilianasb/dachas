@@ -1,1 +1,1 @@
-I love my [school](https://dachas.lt) :)
+I love my [school](https://www.dachas.lt/) :)
