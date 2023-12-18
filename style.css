@@ -1,3 +1,10 @@
-p {
-	color: black
+#num {
+	color: red;
+	font-size: 50px;
+	font-weight: 900;
+	margin: 0;
+}
+
+img {
+	align-items: left;
 }
