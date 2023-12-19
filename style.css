@@ -5,6 +5,60 @@
 	margin: 0;
 }
 
-img {
-	align-items: left;
+.sticky-logo {
+    width: 50px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #1f2641;
+    z-index: 1;
+    padding: 10px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo h2 {
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 600px;
+    flex: 1;
+}
+
+nav a {
+    color: white;
+    font-size: 20px;
+}
+
+header button {
+    background-color: #10cb6c;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+}
+
+nav a:hover {
+    color: #00cde4;
+}
+
+header button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 5px white;
 }
