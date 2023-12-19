@@ -55,15 +55,6 @@ nav a {
     font-size: 20px;
 }
 
-header button {
-    background-color: #10cb6c;
-    border-radius: 8px;
-    border: none;
-    color: white;
-    font-size: 18px;
-    padding: 5px;
-}
-
 nav a:hover {
     color: #00cde4;
 }
